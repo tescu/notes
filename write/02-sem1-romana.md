@@ -3,6 +3,8 @@ title: Poezia românească înainte de modernism și postmodernism
 lang: ro
 ---
 
+__ÎN LUCRU__
+
 # Conceptul de „poesis”, poezia pe parcursul dezvoltării literaturii
 
 # Poezia în spațiul cultural românesc
