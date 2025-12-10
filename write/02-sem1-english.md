@@ -34,9 +34,7 @@ with the way that British society had evolved, while also being of great value
 to the common reader, who began to felt noticed and appreciated, and could
 relate to the stories and challenges faced by many of the characters found in
 such tales. The most popular of these works are, by far, Charles Dickens' semi-
-autobiographical novels. (see chapter [Charles Dickens](#charles dickens)).
-
-<!--vox populi? literature as a voice for the people-->
+autobiographical novels. (see chapter [Charles Dickens](#charles-dickens)).
 
 # Victorian Writers and Poets
 
@@ -61,15 +59,60 @@ other English authors and is still enjoyed by critics and readers well into our
 current era, with novels like _A Christmas Carol_ enjoying modern adaptations
 into film, musicals, and children's cartoons.
 
-# The Victorian Novel
+# The Victorian Novel and Novelists
 
 ## W. M. Thackeray
+William Makepeace Thackeray (1811 -- 1863) was an English novelist and illustrator
+most appreciated for his satirical works. He was born in Calcutta[^k], in Brittish
+India, and moved to England after his father's death in 1815. His background having
+been born into one of the territories under colonial rule of England has greatly
+influenced his work, as can be seen in his novel _Vanity Fair_, a satire novel
+criticizing 19th century British society.
+
+[^k]: In what is now the modern-day city of Kolkata, India.
 
 ## The Brontë Sisters
+The Brontë Sisters were, as the name implies, a group of sisters from the Brontë
+family, all of whom were novelists and poets. The sisters -- Charlotte, Emily, and
+Anne -- all had published their works under male pseudonyms taken from their initials
+in order to avoid scrutiny from readers and critics: __Currer Bell__, __Ellis Bell__,
+and __Acton Bell__.
+
+Two novels written by the sisters are most widely acclaimed by critics for thier
+literary value, namely _Jane Eyre_ by Charlotte Brontë, and _Wuthering Heights_ by
+Emily Brontë.
+
+### Emily Brontë
+Emily Brontë (1818 -- 1848) was the fifth of the six Brontë siblings, of whom only
+four survived into adulthood. Her only novel, _Wuthering Heights_, published in 1847,
+under the pen name __Ellis Bell__ is commonly considered one of the greatest novels
+written in English.
+
+### Charlotte Brontë
+Charlotte Brontë (1816 -- 1855) was the elder sister of the Emily and Anne. Her most
+known work is the novel _Jane Eyre_, published in the year 1848 under her pseudonym
+__Currer Bell__.
 
 ## George Eliot
+George Eliot (1819 -- 1880), under her real name, Marry Ann Evans, was an English
+novelist, journalist, and poet. She has written seven novels in total, the most
+popular of which are _Adam Bede_ (1859), _Middlemarch_ (1871), and
+_The Mill on the Floss_ (1860).
+George Eliot's works popularised the use of literary realism across a diverse number
+of authors, including her contemporaries.
+
+### Middlemarch
+
+### Adam Bede
+
+### Literary realism
 
 ## Thomas Hardy
+
+Thomas Hardy (1840 -- 1928) was an English novelist and poet, best known for his
+famous social novel, _Tess of d'Urbervilles_, largely disputed at the time of its
+publishing due to the way in which it depicted the crude hardships faced by women
+during Victorian times. His novels fit into two main themes: Realism and Romanticism.
 
 # Bibliography
 
