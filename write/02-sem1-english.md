@@ -102,6 +102,9 @@ George Eliot's works popularised the use of literary realism across a diverse nu
 of authors, including her contemporaries.
 
 ### Middlemarch
+_Middlemarch_ is George Eliot's most popular novel. The novel was serialised in eight
+volumes from 1871 to 1872, and was published with the subtitle
+_"A Study of Provincial Life"_
 
 ### Adam Bede
 
@@ -113,6 +116,16 @@ Thomas Hardy (1840 -- 1928) was an English novelist and poet, best known for his
 famous social novel, _Tess of d'Urbervilles_, largely disputed at the time of its
 publishing due to the way in which it depicted the crude hardships faced by women
 during Victorian times. His novels fit into two main themes: Realism and Romanticism.
+
+Hardy's works have been profoundly influenced by the contrast between his own
+chilhood living in a quiet rural village in Higher Bockhampton, and the busy life of
+London, where he worked from 1862 as a draftsman, designing and restoring churches.
+
+Despite being generally regarded as a novelist by most critics, Hardy considered
+himself fundamentally a poet. His first novel, _The Poor Man and the Lady_ was ill
+received and rejected by all the publishers he contacted, leading to it never being
+published. The manuscript was destroyed by Hardy in his later years and no copies of
+it exist.
 
 # Bibliography
 
