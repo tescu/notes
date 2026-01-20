@@ -42,18 +42,62 @@ Alexandru Macedonski (1854 -- 1920) a fost un poet, prozator și dramaturg româ
 considerat unul dintre întemeietorii și primul reprezentat al curentului simbolist
 în literatura română, fiind inspirat de literatura franceză. A fondat cenaclul și
 revista literară _„Literatorul”_ care, deși s-a aflat într-o constantă polemică
-cu „Junimea”, a contribuit considerabil la dezvoltarea și modernizarea poeziei
-românești. A încurajat și sprijinit formarea mai multor scriitori români tineri,
-dintre care George Bacovia, Tudor Vianu (publicați în revista _„Literatorul”_),
-Tudor Arghezi și Gala Galaction (publicați în _„Liga ortodoxă”_). A fost ales
-membru post-mortem al Academiei Române în anul 2006, la 86 de ani de la stingerea
-sa.
+cu revista „Junimea”, a contribuit considerabil la dezvoltarea și modernizarea
+poeziei românești.
+A încurajat și sprijinit formarea mai multor scriitori români tineri, dintre care
+George Bacovia, Tudor Vianu (publicați în revista _„Literatorul”_), Tudor Arghezi
+și Gala Galaction (publicați în _„Liga ortodoxă”_). A fost ales membru post-mortem
+al Academiei Române în anul 2006, la 86 de ani de la stingerea sa.
 
-# Inceputurile simbolismului
+În cadrul activității sale literare, întâlnim o selecție vastă și diversă de opere
+care pot fi categorizate după specificul lor, de la texte care aduc aminte de poezia
+clasică (seria _Rondelurilor_), la experimente literare amănunțite animate de un
+sentiment aparte de ideal creativ. Este inițiatorul versului liber în poezia românească
+(poezia „Hinov”, publicată în 1879), estetician și inovator. Macedonski a fost, așadar,
+unul dintre primii poeți care realizează sincronizarea literaturii românești cu întreaga
+mișcare europeană. 
+
+# Începuturile simbolismului
+
+## Formarea mișcării simboliste
+
+Simbolismul, ca mișcare literară și artistică, a apărut prima dată în Franța drept
+reacție împotriva _parnasianismului_[^parnasian], odată cu publicarea în anul 1886 a
+articolului-manifest _«Le Symbolisme»_, scris de poetul francez Charles Baudelaire,
+considerat, împreună cu Stéphane Mallarmé și Paul Verlaine, unul dintre precursorii
+și inițiatorii acestui curent. 
+
+Așa cum este sugerat și în celebrul poem _„Corespunderi”_ (_«Correspondances»_),
+mișcarea în centrul idealului estetic folosirea „corespondențelor”: 
+
+| _«L'homme y passe à travers des forêts de symboles [...]_  
+| _Les parfums, les couleurs et les sons se répondent.»_[^parfums]
+
+Aceste „corespondențe”, altfel spus _simboluri_, reprezintă baza gândirii expresive
+simboliste, a transpunerii poeziei în spațiul emotivității. Noul raport dintre eul
+poetic și simbol îi oferă cititorului sau spectatorului șansa de a participa activ
+pentru înțelegerea sugestiilor, imaginilor artistice și emoțiilor redate de simbol.
+Se trece de la descrierea brută și rigidă specifică parnasianismului menționat mai
+sus, la exprimarea marilor teme literare (iubirea, natura, emoțiile) prin celelalte
+simțuri ale omului: mirosul, auzul, gustul etc. 
+
+De altfel, tot în cadrul mișcării simboliste, apar primele lucrări care teoretizează
+relațiile limbii si poezii cu sonoritatea, culorile, muzicalitatea, ritmul etc.
+
+[^parnasian]: Parnasianismul este o mișcare literară apărută în Franța care are drept
+ideal cultivarea expresiei impersonale, descriptivă și strict formală. Curentul a fost
+criticat pentru rigiditatea limbajului folosit și lipsa de emoție sau subiectivitate.
+
+[^parfums]: Tradus din franceză: _„Acolo omul trece prin păduri de simboluri [...]_
+_Aromele, culorile și sunetele se-ngână și-și răspund.”_
 
 ## Al. Macedonski
 
-...
+Opera lui Macedonski reprezintă o răscruce în dezvoltarea și popularizarea simbolismului
+în literatura noastră. Este autorul primelor comentarii și articole despre noua mișcare,
+din care amintim: _„Despre logica poeziei”_ (1880), _„Poezia viitorului”_ (1892),
+_„Simbolismul”_ (1895) etc. De-asemenea, publică mai multe poeme, împreună cu comentariile
+sale, în care exemplifică și teoretizează asupra aspectelor curentului în sine.
 
 ## Ștefan Petică
 
