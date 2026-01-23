@@ -61,28 +61,36 @@ mișcare europeană.
 
 ## Formarea mișcării simboliste
 
-Simbolismul, ca mișcare literară și artistică, a apărut prima dată în Franța drept
-reacție împotriva _parnasianismului_[^parnasian], odată cu publicarea în anul 1886 a
-articolului-manifest _«Le Symbolisme»_, scris de poetul francez Charles Baudelaire,
-considerat, împreună cu Stéphane Mallarmé și Paul Verlaine, unul dintre precursorii
-și inițiatorii acestui curent. 
+Simbolismul, ca mișcare literară și artistică, a fost declarat oficial prima dată
+în Franța odată cu publicarea în anul 1886 a articolului-manifest _« Le Symbolisme »_,
+scris de poetul francez Charles Baudelaire, considerat, împreună cu Stéphane Mallarmé
+și Paul Verlaine, unul dintre precursorii și inițiatorii acestui curent. Mișcarea s-a
+manifestat principal ca reacție împotriva _parnasianismului_[^parnasian], dar poate
+fi considerată și un precursor al poeziei moderne, fiind o perioadă literară și artistică
+caracterizată de noi experimente și tehnici creative.
 
-Așa cum este sugerat și în celebrul poem _„Corespunderi”_ (_«Correspondances»_),
-mișcarea în centrul idealului estetic folosirea „corespondențelor”: 
+Așa cum este sugerat și în poemul celebru lui Baudelaire, _„Corespunderi”_ ( _« Correspondances »_ ),
+mișcarea simbolistă are în centrul idealului său estetic folosirea „corespondențelor”: 
 
-| _«L'homme y passe à travers des forêts de symboles [...]_  
-| _Les parfums, les couleurs et les sons se répondent.»_[^parfums]
+| _« L'homme y passe à travers des forêts de symboles [...]_  
+| _Les parfums, les couleurs et les sons se répondent. »_[^parfums]
 
 Aceste „corespondențe”, altfel spus _simboluri_, reprezintă baza gândirii expresive
-simboliste, a transpunerii poeziei în spațiul emotivității. Noul raport dintre eul
-poetic și simbol îi oferă cititorului sau spectatorului șansa de a participa activ
-pentru înțelegerea sugestiilor, imaginilor artistice și emoțiilor redate de simbol.
+simboliste: transpunerea poeziei în spațiul emotivității prin sugestie. Noul raport
+dintre eul poetic și simbol îi oferă cititorului sau spectatorului șansa de a participa
+activ pentru înțelegerea impresiilor, imaginilor și emoțiilor redate de simbol.
 Se trece de la descrierea brută și rigidă specifică parnasianismului menționat mai
-sus, la exprimarea marilor teme literare (iubirea, natura, emoțiile) prin celelalte
-simțuri ale omului: mirosul, auzul, gustul etc. 
+sus, la interiorizarea emoțiilor retrăite de eul liric și exprimarea marilor teme
+literare (iubirea, natura, emoțiile) prin celelalte simțuri ale omului: mirosul,
+auzul, gustul, atingerea etc. 
 
 De altfel, tot în cadrul mișcării simboliste, apar primele lucrări care teoretizează
-relațiile limbii si poezii cu sonoritatea, culorile, muzicalitatea, ritmul etc.
+relațiile dintre simbol și poezie cu sonoritatea consoanelor și vocalelor, inspirat
+de conceptul de _sinestezie_. Idee care apare și în poemul _„Vocale”_ ( _« Voyelles »_ )
+din anul 1883 de Arthur Rimbaud:
+
+| _« A noir, E blanc, I rouge, U vert, O bleu, voyelles... »_  
+| traducere: _„A negru, E alb, I roșu, U verde, O albastru, vocale...”_
 
 [^parnasian]: Parnasianismul este o mișcare literară apărută în Franța care are drept
 ideal cultivarea expresiei impersonale, descriptivă și strict formală. Curentul a fost
@@ -96,7 +104,7 @@ _Aromele, culorile și sunetele se-ngână și-și răspund.”_
 Opera lui Macedonski reprezintă o răscruce în dezvoltarea și popularizarea simbolismului
 în literatura noastră. Este autorul primelor comentarii și articole despre noua mișcare,
 din care amintim: _„Despre logica poeziei”_ (1880), _„Poezia viitorului”_ (1892),
-_„Simbolismul”_ (1895) etc. De-asemenea, publică mai multe poeme, împreună cu comentariile
+_„Simbolismul”_ (1895) etc. Publică, de-asemenea, mai multe poeme, împreună cu comentariile
 sale, în care exemplifică și teoretizează asupra aspectelor curentului în sine.
 
 ## Ștefan Petică
@@ -167,7 +175,8 @@ _Înainte de a fi poet, Bacovia a fost un violonist talentat. Afinitatea sa pent
 :::
 
 George Bacovia (1881 -- 1957), născut Gheorghe Vasiliu, a fost un poet și scriitor
-român, considerat cel mai important poet simbolist român.
+român, considerat cel mai important poet simbolist român și totodată primul poet
+simbolist cu adevărat autohton din literatura noastră.
 
 ## Formarea simbolismului -- curent literar autohton românesc
 
