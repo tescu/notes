@@ -49,6 +49,21 @@ George Bacovia, Tudor Vianu (publicați în revista _„Literatorul”_), Tudor 
 și Gala Galaction (publicați în _„Liga ortodoxă”_). A fost ales membru post-mortem
 al Academiei Române în anul 2006, la 86 de ani de la stingerea sa.
 
+Macedonski a fost o personalitate deosebit de puternică și eminentă a secolului
+trecut, iar poetul se distinge printre contemporanii săi datorită spiritului convins
+anti-junimist și polemic, dar influențat de gândirea pașoptistă și deschis spre
+progresul literar și social. Poeziile sale sunt încărcate de patos, o obsesie a
+idealului estetic și exaltare a emoțiilor tipic romantică, de natură cvasi-byroniană.
+
+În pofida perspectivei anti-junimiste, datorită căreia a purtat mai multe polemici
+inclusiv cu personalități celebre ale literaturii române (Vasile Alecsandri, I. L.
+Caragiale și chiar Eminescu), Macedonski a fost unul dintre cei mai apreciați poeți
+ai secolului XX, fiind întrecut doar de Eminescu.
+
+Opera lui Macedonski a trecut prin mai multe etape experimentale și estetice, de regulă
+concentrate în jurul unei teme centrale, motiv pentru care este uneori supranumit 
+_poetul nopților_, _poetul rondelurilor_ sau .
+
 În cadrul activității sale literare, întâlnim o selecție vastă și diversă de opere
 care pot fi categorizate după specificul lor, de la texte care aduc aminte de poezia
 clasică (seria _Rondelurilor_), la experimente literare amănunțite animate de un
@@ -62,23 +77,26 @@ mișcare europeană.
 ## Formarea mișcării simboliste
 
 Simbolismul, ca mișcare literară și artistică, a fost declarat oficial prima dată
-în Franța odată cu publicarea în anul 1886 a articolului-manifest _« Le Symbolisme »_,
-scris de poetul francez Charles Baudelaire, considerat, împreună cu Stéphane Mallarmé
-și Paul Verlaine, unul dintre precursorii și inițiatorii acestui curent. Mișcarea s-a
-manifestat principal ca reacție împotriva _parnasianismului_[^parnasian], dar poate
-fi considerată și un precursor al poeziei moderne, fiind o perioadă literară și artistică
-caracterizată de noi experimente și tehnici creative.
+în Franța odată cu publicarea lui Jean Moréas în anul 1886 a articolului-manifest
+_« Le Symbolisme »_. Mișcarea s-a manifestat principal ca reacție contra poeziei
+impersonale și obiective specifice _parnasianismului_[^parnasian], dar poate fi
+considerată și un precursor al poeziei moderne, fiind o perioadă literară și artistică
+marcată de experimente și tehnici creative inovative.
 
-Așa cum este sugerat și în poemul celebru lui Baudelaire, _„Corespunderi”_ ( _« Correspondances »_ ),
-mișcarea simbolistă are în centrul idealului său estetic folosirea „corespondențelor”: 
+Charles Baudelaire este considerat unul dintre precursorii mișcării simboliste,
+împreună cu Stéphane Mallarmé și Paul Verlaine. Dintre operele poetului francez,
+volumul de poezii _„Florile răului”_ ( _« Les fleurs du mal »_ ) și poemul _„Corespunderi”_
+( _« Correspondances »_ ) sunt considerate primele lucrări care afirmă idealul estetic
+al mișcării, anume folosirea „corespondențelor”, sugestiilor și sinesteziei: 
 
 | _« L'homme y passe à travers des forêts de symboles [...]_  
 | _Les parfums, les couleurs et les sons se répondent. »_[^parfums]
 
-Aceste „corespondențe”, altfel spus _simboluri_, reprezintă baza gândirii expresive
-simboliste: transpunerea poeziei în spațiul emotivității prin sugestie. Noul raport
-dintre eul poetic și simbol îi oferă cititorului sau spectatorului șansa de a participa
-activ pentru înțelegerea impresiilor, imaginilor și emoțiilor redate de simbol.
+„Corespondențele”, altfel spus _simboluri_, stau la baza expresivității simboliste:
+transpunerea poeziei în spațiul emotivității prin sugestie.
+Formarea noului raport dintre eul poetic (_universul mic_) și lume (_universul mare_)
+prin simbol îi oferă cititorului sau spectatorului șansa de a participa activ pentru
+înțelegerea impresiilor, imaginilor și emoțiilor redate de acesta.
 Se trece de la descrierea brută și rigidă specifică parnasianismului menționat mai
 sus, la interiorizarea emoțiilor retrăite de eul liric și exprimarea marilor teme
 literare (iubirea, natura, emoțiile) prin celelalte simțuri ale omului: mirosul,
@@ -93,8 +111,13 @@ din anul 1883 de Arthur Rimbaud:
 | traducere: _„A negru, E alb, I roșu, U verde, O albastru, vocale...”_
 
 [^parnasian]: Parnasianismul este o mișcare literară apărută în Franța care are drept
-ideal cultivarea expresiei impersonale, descriptivă și strict formală. Curentul a fost
-criticat pentru rigiditatea limbajului folosit și lipsa de emoție sau subiectivitate.
+ideal cultivarea expresiei impersonale, obiectivă, descriptivă și strict formală.
+Termenul „parnasian” (fr. _parnassien_) face trimitere la muntele Parnas din Focida,
+consacrat lui Apollo și muzelor în mitologia greacă. Numele mișcării în sine a fost
+dat de poeții reprezentanți care și-au publicat lucrările în revista _„Parnasul contemporan”_
+( _« Le Parnasse contemporain »_ ).
+Curentul a fost criticat pentru rigiditatea limbajului folosit și lipsa de emoție
+sau subiectivitate.
 
 [^parfums]: Tradus din franceză: _„Acolo omul trece prin păduri de simboluri [...]_
 _Aromele, culorile și sunetele se-ngână și-și răspund.”_
@@ -106,6 +129,8 @@ Opera lui Macedonski reprezintă o răscruce în dezvoltarea și popularizarea s
 din care amintim: _„Despre logica poeziei”_ (1880), _„Poezia viitorului”_ (1892),
 _„Simbolismul”_ (1895) etc. Publică, de-asemenea, mai multe poeme, împreună cu comentariile
 sale, în care exemplifică și teoretizează asupra aspectelor curentului în sine.
+
+## Formarea simbolismului -- curent literar autohton românesc
 
 ## Ștefan Petică
 
@@ -178,7 +203,6 @@ George Bacovia (1881 -- 1957), născut Gheorghe Vasiliu, a fost un poet și scri
 român, considerat cel mai important poet simbolist român și totodată primul poet
 simbolist cu adevărat autohton din literatura noastră.
 
-## Formarea simbolismului -- curent literar autohton românesc
 
 ## Exprimarea simbolismului în opera bacoviană
 
