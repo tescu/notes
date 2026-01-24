@@ -51,30 +51,27 @@ al Academiei Române în anul 2006, la 86 de ani de la stingerea sa.
 
 Macedonski a fost o personalitate deosebit de puternică și eminentă a secolului
 trecut, iar poetul se distinge printre contemporanii săi datorită spiritului convins
-anti-junimist și polemic, dar influențat de gândirea pașoptistă și deschis spre
-progresul literar și social. Poeziile sale sunt încărcate de patos, o obsesie a
-idealului estetic și exaltare a emoțiilor tipic romantică, de natură cvasi-byroniană.
+anti-junimist și polemic, totodată dar influențat de gândirea pașoptistă și deschis
+spre progresul literar și social. Poeziile sale sunt încărcate de patos, idealizarea
+a esteticului și exaltarea emoțiilor tipic romantică, de natură cvasi-byroniană.
 
-În pofida perspectivei anti-junimiste, datorită căreia a purtat mai multe polemici
+În pofida perspectivei anti-junimiste, datorită căreia a purtat mai multe polemici,
 inclusiv cu personalități celebre ale literaturii române (Vasile Alecsandri, I. L.
 Caragiale și chiar Eminescu), Macedonski a fost unul dintre cei mai apreciați poeți
 ai secolului XX, fiind întrecut doar de Eminescu.
 
-Opera lui Macedonski a trecut prin mai multe etape experimentale și estetice, de regulă
-concentrate în jurul unei teme centrale, motiv pentru care este uneori supranumit 
-_poetul nopților_, _poetul rondelurilor_ sau .
-
-În cadrul activității sale literare, întâlnim o selecție vastă și diversă de opere
-care pot fi categorizate după specificul lor, de la texte care aduc aminte de poezia
-clasică (seria _Rondelurilor_), la experimente literare amănunțite animate de un
-sentiment aparte de ideal creativ. Este inițiatorul versului liber în poezia românească
-(poezia „Hinov”, publicată în 1879), estetician și inovator. Macedonski a fost, așadar,
-unul dintre primii poeți care realizează sincronizarea literaturii românești cu întreaga
-mișcare europeană. 
+Opera lui Macedonski a trecut prin mai multe etape experimentale și estetice, de
+regulă concentrate în jurul unei teme centrale, motiv pentru care este uneori
+supranumit _poetul nopților_ (după _„Noaptea de decemvrie”_) sau _poetul rondelurilor_
+(după seria _rondelurilor_). Întâlnim în activitatea sa literară o selecție diversă
+de opere caracterizate de teme și stiluri specifice, de la texte care aduc aminte
+de poezia clasică, la experimente literare amănunțite animate de un ideal creativ
+înflăcărat. Este inițiatorul versului liber în poezia românească (poezia „Hinov”,
+publicată în 1879), estetician desăvârșit și inovator. Macedonski a fost, așadar,
+unul dintre primii poeți care realizează sincronizarea literaturii românești cu
+întreaga mișcare europeană. 
 
 # Începuturile simbolismului
-
-## Formarea mișcării simboliste
 
 Simbolismul, ca mișcare literară și artistică, a fost declarat oficial prima dată
 în Franța odată cu publicarea lui Jean Moréas în anul 1886 a articolului-manifest
@@ -85,7 +82,7 @@ marcată de experimente și tehnici creative inovative.
 
 Charles Baudelaire este considerat unul dintre precursorii mișcării simboliste,
 împreună cu Stéphane Mallarmé și Paul Verlaine. Dintre operele poetului francez,
-volumul de poezii _„Florile răului”_ ( _« Les fleurs du mal »_ ) și poemul _„Corespunderi”_
+volumul de poezii _Florile răului_ ( _« Les fleurs du mal »_ ) și poemul _Corespunderi_
 ( _« Correspondances »_ ) sunt considerate primele lucrări care afirmă idealul estetic
 al mișcării, anume folosirea „corespondențelor”, sugestiilor și sinesteziei: 
 
@@ -104,7 +101,7 @@ auzul, gustul, atingerea etc.
 
 De altfel, tot în cadrul mișcării simboliste, apar primele lucrări care teoretizează
 relațiile dintre simbol și poezie cu sonoritatea consoanelor și vocalelor, inspirat
-de conceptul de _sinestezie_. Idee care apare și în poemul _„Vocale”_ ( _« Voyelles »_ )
+de conceptul de _sinestezie_. Idee care apare și în poemul _Vocale_ ( _« Voyelles »_ )
 din anul 1883 de Arthur Rimbaud:
 
 | _« A noir, E blanc, I rouge, U vert, O bleu, voyelles... »_  
@@ -114,7 +111,7 @@ din anul 1883 de Arthur Rimbaud:
 ideal cultivarea expresiei impersonale, obiectivă, descriptivă și strict formală.
 Termenul „parnasian” (fr. _parnassien_) face trimitere la muntele Parnas din Focida,
 consacrat lui Apollo și muzelor în mitologia greacă. Numele mișcării în sine a fost
-dat de poeții reprezentanți care și-au publicat lucrările în revista _„Parnasul contemporan”_
+dat de poeții reprezentanți care și-au publicat lucrările în revista _Parnasul contemporan_
 ( _« Le Parnasse contemporain »_ ).
 Curentul a fost criticat pentru rigiditatea limbajului folosit și lipsa de emoție
 sau subiectivitate.
@@ -122,15 +119,15 @@ sau subiectivitate.
 [^parfums]: Tradus din franceză: _„Acolo omul trece prin păduri de simboluri [...]_
 _Aromele, culorile și sunetele se-ngână și-și răspund.”_
 
+## Simbolismul -- curent literar autohton românesc
+
 ## Al. Macedonski
 
 Opera lui Macedonski reprezintă o răscruce în dezvoltarea și popularizarea simbolismului
 în literatura noastră. Este autorul primelor comentarii și articole despre noua mișcare,
-din care amintim: _„Despre logica poeziei”_ (1880), _„Poezia viitorului”_ (1892),
-_„Simbolismul”_ (1895) etc. Publică, de-asemenea, mai multe poeme, împreună cu comentariile
+din care amintim: _Despre logica poeziei_ (1880), _Poezia viitorului_ (1892),
+_Simbolismul_ (1895) etc. Publică, de-asemenea, mai multe poeme, împreună cu comentariile
 sale, în care exemplifică și teoretizează asupra aspectelor curentului în sine.
-
-## Formarea simbolismului -- curent literar autohton românesc
 
 ## Ștefan Petică
 
@@ -151,13 +148,75 @@ engleza, italiana și spaniola, a efectuat studii specializate bazându-se pe c�
 și documente obținute de la diverse edituri europene de prestigiu și a realizat
 mai multe studii sociologice.
 
+Opera poetică lui Petică a fost profund influențată de cultura italiană și engleză,
+de unde a preluat mai ales imagini și motive din literatura medievală italiană,
+regăsindu-se motive care fac trimitere la opera lui Dante, Petrarca sau Botticelli
+(„întristatul, mult vestitul florentin”), dar și din perioada renascentistă și
+post-renascentistă cu teme care se regăsesc în opera lui Rafael, Dante Gabriel Rosetti
+și John Keats. Seria de poezii _Fecioara în alb_ se remarcă prin ilustrarea directă
+a acestei influențe, de la mottoul preluat direct de la Dante: _„Vedi che del desio
+lei mi piego”_, la titlul alternativ _La creatura di bianco vestita_ (_„Creatura vestită
+în alb”_). De altfel, pe parcursul poemelor din serie se regăsesc mai multe
+imagini afective de natură rafaelică sau botticelliană:
+
+| _„O, marile pasionate. / O, tragicele Magdalene, / Femei etern îndurerate [...]”_
+| ...
+| _„Mi-e dor de-un cântec plin de jale, / De-o adiere parfumată.”_
+|   (_Fecioara în alb_, C. I)  
+
+Ștefan Petică redă prin afectivitatea sa trecerea clară spre autohtonizarea
+simbolismului. Viziunea plastică a poetului acordă sugestiei rolul principal
+în redarea emoțiilor și imaginilor, fiind de natură stranie și neclară, într-o
+stare constantă de incertitudine, aproape de concepția _spleenului_[^spleen]
+în poezia franceză:
+
+| _„O, ceasul trist al renunțării_
+| _Pe frunți a pus melancolii,_
+| _Și-n glas fiorul înserării_
+| _Cu dureroase nostalgii._
+| _[...]_
+| _„Ci tu rămâi figura clară_
+| _Și albă-n rochia ta pală ;_
+| _O fină marmoră-ntr-o seară_
+| _De o tristețe ideală”_
+|   (idem, C. XIX) 
+
+Regăsim în opera sa și un simț aparte al muzicalității, pe care o tratează
+într-un caracter inefabil simbolist ca descriere a poeziei însăși:
+
+| _„Viorile tăcură. O, nota cea din urmă_
+| _Ce plânge răzlețită pe strunele-nvechite_
+| _Și-n noaptea solitară, o, cântul ce se curmă,_
+| _Pe visurile stinse din suflete-ostenite.”_
+|   (_Când viorile tăcură_, C. I)  
+
+| _„Cântarea care n-a fost spusă_
+| _E mai frumoasă ca oricare ;_
+| _Misterul ei e o beție_
+| _De voluptoasă-ndurare.”_
+|   (idem, C. III)
+
+[^spleen]: Stare de melancolie, exprimată prin plictiseală, dezgust sau chiar angoasă.
+Termenul a fost popularizat, împreună cu adjectivul în lb. franceză _splénétique_, de
+poeziile lui Charles Baudelaire. V. _« Le Spleen de Paris »_.
+
 ## Dimitrie Anghel
 
 :::image
 ![Dimitrie Anghel](https://upload.wikimedia.org/wikipedia/commons/9/9a/Dimitrie_Anghel_-_Foto01.jpg)
 :::
 
-Dimitrie Anghel (1872 -- 1914)
+Dimitrie Anghel (1872 -- 1914) a fost un poet român recunoscut pentru
+folosirea deosebită a simțului olfactiv și auditiv în poeziile sale.
+Supranumit de Nicolae Iorga „poetul florilor”, poezia sa este îmbibată
+de parfumul florilor, lucrarea cea mai reprezentativă fiind culegerea
+_În grădină_, unde compunerea se resfrânge în mediul floral prin
+enumerarea rafinată a florilor, fiecare cu gingășia sa: lăcrimoara,
+cicoarea crizantema, petunia, bujorul, floarea-soarelui, brândușa,
+verbina, iasomia, garoafa etc.
+
+| _„Miresme dulci de flori mă-mbată și mă alintă gânduri blânde..._
+| _Ce iertător și bun ți-e gândul în preajma florilor plăpânde!”_
 
 ## Nicolae Davidescu
 
@@ -175,8 +234,30 @@ _Bustul lui Traian Demetrescu din Craiova_
 :::
 
 Traian Rafael Radu Demetrescu (1866 -- 1896) a fost un poet simbolist român,
-influențat de curentul simbolist și impresionist din literatura franceză, dar și
-de poetul național Mihai Eminescu.
+influențat de curentul simbolist și impresionist din literatura franceză, dar
+și de poetul național Mihai Eminescu. A publicat și sub pseudonimul _Tradem_.
+
+Opera poetului este de natură sumbră, specifică esteticii decadente din poeziile
+simboliste marcate de sentimentul de _spleen_ sau _fin de siècle_.
+După cum afirmă criticul literar George Călinescu, _„înainte de Bacovia ...
+poetul cultivă un patetic sfâșietor”_. Poeziile lui Tradem ating uneori
+apogeuri ale ororii care par să precede direct specificul universului Bacovian:
+
+| _„Ninge! ninge!... Alb e satul..._
+|   _Ninge!..._
+| _Vai de vetrele în care_
+| _Focul nu mai e, se stinge..._
+| _Necurmat afară ninge,_
+|   _Ninge!..._
+|   (_Simfonie de toamnă_, C. III)
+
+Versurile aduc aminte de _vremea de beție_ lui Bacovia, marcate de
+repetiție și disperare, într-un spațiu aparent nemărginit:
+
+| _„Plouă, plouă, plouă, / Vreme de beție -- /_
+| _Și s-asculți pustiul / Ce melancolie! /_
+| _Plouă, plouă, plouă...”_
+| (G. Bacovia, _Rar_, 1906)
 
 ## Ion Minulescu
 
@@ -185,8 +266,23 @@ de poetul național Mihai Eminescu.
 _Carte poștală din 2001 înfățișând chipul lui Ion Minulescu_
 :::
 
-Ion Minulescu (1881 -- 1944) a fost un poet simbolist, scriitor și reprezentant al
-avangardei literare române.
+Ion Minulescu (1881 -- 1944) a fost un poet simbolist, scriitor și membru al
+avangardei literare române. Este considerat al treilea mare reprezentant al
+simbolismului românesc, descris de Eugen Lovinescu „adevăratul stegar al
+mișcării simboliste”. A avut o activitate literară foarte productivă, afirmându-se
+în primul rând ca poet avangardist și exotic prin seria _Romanțelor_, inspirat
+de mediul dinamic și în continuă schimbare al orașului. Operele sale emană un
+optimism citadin vioi și contagios, îmbrăcat în mister și farmec. În _„Romanțele
+pentru mai târziu”_ găsim o familiarizare a citorului cu tehnicile simboliste,
+definită de frenezia specifică stilului poetului, care a transformat _spleenul_
+pur melancolic al poeților francezi într-o manifestare a spectacolului:
+
+| _„În cinstea plictiselei mele_
+| _Voi da la noapte un banchet_
+| _Cu versuri, muzică_
+| _și poze plastice cu stele_
+| _de cabaret.”_
+| ()
 
 ### Avangarda literară românească
 
@@ -207,6 +303,8 @@ simbolist cu adevărat autohton din literatura noastră.
 ## Exprimarea simbolismului în opera bacoviană
 
 # Bibliografie
-* Al. Andrei, _Comentarii literare pentru clasele IX-XII, bacalaureat și admiterea în învățământul superior_, Editura Nova, București, 1994
+- Al. Andrei, _Comentarii literare pentru clasele IX-XII, bacalaureat și admiterea în învățământul superior_, Editura Nova, București, 1994
 
-* Florea Firan, Constantin M. Popa, _Macedonski -- Bacovia, Simbolismul românesc_, Editura Macedonski, Craiova, 1993
+- Constanța Bărboi, _Simbolismul românesc; Alexandru Macedonski -- George Bacovia_, Editura Universitară, București, 2007
+
+- Florea Firan, Constantin M. Popa, _Macedonski -- Bacovia, Simbolismul românesc_, Editura Macedonski, Craiova, 1993
