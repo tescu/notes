@@ -1,15 +1,16 @@
 ---
-title: Poezia românească înainte de modernism și postmodernism
+title: Poezia românească în sec. XIX și XX
 lang: ro
 ---
 
 __ÎN LUCRU__
 
-# Conceptul de „poesis”, poezia pe parcursul dezvoltării literaturii
+## Poezia în spațiul cultural românesc
 
-# Poezia în spațiul cultural românesc
+## Mihai Eminescu -- Poetul național
 
-## Momentul „Eminescu”
+Mihai Eminescu ( -- ) a fost „ultimul poet romantic român”, considerat cel mai
+apreciat și influent poet din istoria literaturii române.
 
 ## Octavian Goga
 
@@ -51,9 +52,10 @@ al Academiei Române în anul 2006, la 86 de ani de la stingerea sa.
 
 Macedonski a fost o personalitate deosebit de puternică și eminentă a secolului
 trecut, iar poetul se distinge printre contemporanii săi datorită spiritului convins
-anti-junimist și polemic, totodată dar influențat de gândirea pașoptistă și deschis
-spre progresul literar și social. Poeziile sale sunt încărcate de patos, idealizarea
-a esteticului și exaltarea emoțiilor tipic romantică, de natură cvasi-byroniană.
+anti-junimist și polemic, dar influențat de gândirea pașoptistă și deschis spre
+progresul literaturii și societății. Poeziile sale sunt încărcate de patos, de
+idealizarea esteticului și exaltarea emoțiilor într-un mod tipic romantic, de
+natură cvasi-byroniană.
 
 În pofida perspectivei anti-junimiste, datorită căreia a purtat mai multe polemici,
 inclusiv cu personalități celebre ale literaturii române (Vasile Alecsandri, I. L.
@@ -63,7 +65,7 @@ ai secolului XX, fiind întrecut doar de Eminescu.
 Opera lui Macedonski a trecut prin mai multe etape experimentale și estetice, de
 regulă concentrate în jurul unei teme centrale, motiv pentru care este uneori
 supranumit _poetul nopților_ (după _„Noaptea de decemvrie”_) sau _poetul rondelurilor_
-(după seria _rondelurilor_). Întâlnim în activitatea sa literară o selecție diversă
+(după seria _Rondelurilor_). Întâlnim în activitatea sa literară o selecție diversă
 de opere caracterizate de teme și stiluri specifice, de la texte care aduc aminte
 de poezia clasică, la experimente literare amănunțite animate de un ideal creativ
 înflăcărat. Este inițiatorul versului liber în poezia românească (poezia „Hinov”,
@@ -119,7 +121,7 @@ sau subiectivitate.
 [^parfums]: Tradus din franceză: _„Acolo omul trece prin păduri de simboluri [...]_
 _Aromele, culorile și sunetele se-ngână și-și răspund.”_
 
-## Simbolismul -- curent literar autohton românesc
+## Simbolismul românesc -- curent autohton 
 
 ## Al. Macedonski
 
@@ -239,7 +241,7 @@ influențat de curentul simbolist și impresionist din literatura franceză, dar
 
 Opera poetului este de natură sumbră, specifică esteticii decadente din poeziile
 simboliste marcate de sentimentul de _spleen_ sau _fin de siècle_.
-După cum afirmă criticul literar George Călinescu, _„înainte de Bacovia ...
+După cum afirmă criticul literar George Călinescu: _„înainte de Bacovia ...
 poetul cultivă un patetic sfâșietor”_. Poeziile lui Tradem ating uneori
 apogeuri ale ororii care par să precede direct specificul universului Bacovian:
 
@@ -248,16 +250,18 @@ apogeuri ale ororii care par să precede direct specificul universului Bacovian:
 | _Vai de vetrele în care_
 | _Focul nu mai e, se stinge..._
 | _Necurmat afară ninge,_
-|   _Ninge!..._
+|   _Ninge!...”_
 |   (_Simfonie de toamnă_, C. III)
 
 Versurile aduc aminte de _vremea de beție_ lui Bacovia, marcate de
 repetiție și disperare, într-un spațiu aparent nemărginit:
 
-| _„Plouă, plouă, plouă, / Vreme de beție -- /_
-| _Și s-asculți pustiul / Ce melancolie! /_
+| _„Plouă, plouă, plouă,_
+| _Vreme de beție --_
+| _Și s-asculți pustiul_
+| _Ce melancolie!_
 | _Plouă, plouă, plouă...”_
-| (G. Bacovia, _Rar_, 1906)
+|   (G. Bacovia, _Rar_, 1906)
 
 ## Ion Minulescu
 
@@ -282,11 +286,14 @@ pur melancolic al poeților francezi într-o manifestare a spectacolului:
 | _Cu versuri, muzică_
 | _și poze plastice cu stele_
 | _de cabaret.”_
-| ()
-
-### Avangarda literară românească
 
 ### _„Romanțele”_
+
+Cele mai cunoscute opere poezii scrise de Ion Minulescu aparțin, fără îndoială, seriei
+_Romanțe pentru mai târziu_, o parte fiind publicate mai întâi în revista
+_Viața literară și artistică_ lui Ilarie Chendi, apoi culese într-un volum în anul 1908.
+La origine, cuvântul _romanță_ înseamnă o compoziție muzicală vocală cu acompaniament instrumental
+și cu versuri lirice sentimentale.
 
 # George Bacovia
 
@@ -299,6 +306,10 @@ George Bacovia (1881 -- 1957), născut Gheorghe Vasiliu, a fost un poet și scri
 român, considerat cel mai important poet simbolist român și totodată primul poet
 simbolist cu adevărat autohton din literatura noastră.
 
+O mare parte din succesul literar al poetului se datorează în măsuri egale atât
+sprijinului acordat de Alexandru Macedonski la debutul său, cât și contribuțiilor
+soției sale, Agatha Bacovia, care și-a dedicat majoritatea vieții în susținerea
+activității sale literare.
 
 ## Exprimarea simbolismului în opera bacoviană
 
