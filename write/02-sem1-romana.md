@@ -463,8 +463,8 @@ pur melancolic al poeților francezi într-o manifestare a spectacolului:
 Cele mai cunoscute opere poezii scrise de Ion Minulescu aparțin, fără îndoială, seriei
 _Romanțe pentru mai târziu_, o parte fiind publicate mai întâi în revista
 _Viața literară și artistică_ lui Ilarie Chendi, apoi culese într-un volum în anul 1908.
-La origine, cuvântul _romanță_ înseamnă o compoziție muzicală vocală cu acompaniament instrumental
-și cu versuri lirice sentimentale.
+La origine, cuvântul _romanță_ înseamnă o compoziție muzicală vocală cu acompaniament
+instrumental și cu versuri lirice sentimentale.
 
 # George Bacovia
 
@@ -482,7 +482,114 @@ sprijinului acordat de Alexandru Macedonski la debutul său, cât și contribuț
 soției sale, Agatha Bacovia, care și-a dedicat majoritatea vieții în susținerea
 activității sale literare.
 
-## Exprimarea simbolismului în opera bacoviană
+Opera lui Bacovia se distinge de restul mișcării simboliste prin originalitatea
+construcției poetice și folosirea gesturilor obsesive și-a imaginilor stranii.
+Sensibilitatea poetului este expusă în imagini și simboluri complet unice, relativ
+simple și restrânse, axate mai ales pe repetiție, dar deosebit de efective.
+
+Universul poetic bacovian este tranșant, rece și absolut. Poetul apelează des
+la repetiții obsesive și la crearea unei atmosferi totală de _tristețe provincială_
+cu aspect de mahala, de toamnă ploioasă sau de locații sumbre, aproape gotice.
+
+| _„Singur, singur, singur / Într-un han, departe --_
+| _Doarme și hangiul, / Străzile-s deșarte,_
+| _Singur, singur, singur..._
+| _[...]_
+| _Plouă, plouă, plouă... / Vreme de beție --_
+| _Si s-asculți pustiul, / Ce melancolie!_
+| _Plouă, plouă, plouă...”_
+|   (_Rar_)
+
+<br/>
+
+| _„E toamnă, e foșnet, e somn... / Copacii, pe stradă, oftează;_
+| _E tuse, e plânset, e gol... / Și-i frig, și burează._
+| _[...]_
+| _Eu stau și mă duc, și mă-ntorc, / Și-amanții profund mă-ntristează --_
+| _Îmi vine să râd fără sens, / Și-i frig, și burează.”_
+|   (_Nervi de toamnă_)
+
+Lumea poetului se resfrânge într-un mediu bizar și copleșitor de dezolant.
+Imaginile orașului cuprins de spleen sunt amplificate printr-o readucere constantă
+la neant, la sfârșit și continuă degradare. Însăși existența se deplânge de
+sentimentul copleșitor de _fin de siècle_:
+
+| _„De-atâtea nopți aud plouând, / Aud materia plângând”_
+|   (_Lăcustră_)
+
+Fascinat de ideea sinesteziei teoretizată la începuturile simbolismului, poetul
+descrie deseori întregi emoții sau stări sufletești prin prisma unei culori,
+capabilă să cuprindă fiecare colț al firii. O lume obosită, intrată în desuetudine
+este exprimată doar printr-o nuanță de violet:
+
+| _„Amurg de toamnă violet... / Pe drum e-o lume leneșă, cochetă_
+| _Mulțimea toată pare violetă, / Orașul tot e violet.”
+|   (_Amurg violet_)
+
+Gesturile capătă aspect mecanic. Emoțiile sunt expuse într-o frenezie fără sfârșit,
+iar distincția dintre ființele animate și obiecte pare să se piardă în ceața orașului
+pustiu:
+
+| _„Acum, stă parcul devastat, fatal, / Mâncat de cancer și ftizie._
+| _Pătat de roșu carne-vie -- / Acum, se-nșiră scene de spital._
+| _Atunci, râdea, / Băteau aripi de veselie;_
+| _Parfum, polen și histerie, -- / Atunci, în parc, și ea venea.”_
+
+Cea mai reprezentativă operă pentru exprimarea simbolistă în opera bacoviană este, de
+departe, poezia _Plumb_. De-o simplitate remarcabilă, poezie descrie în două strofe
+sentimentul de izolare inefabilă. Cuvântului _plumb_ îi se acordă rolul de simbol al
+neantului și epuizării, prin care este descris obsedant fiecare element:
+
+| _„Dormeau adânc **sicriele de plumb**, / Si **flori de plumb** si funerar vestmânt --_
+| _Stam singur în cavou... si era vânt... / Și scârțâiau **coroanele de plumb**.”_
+
+Secvența _„am început să-l strig”_ ar indica o imagine auditivă, un element dinamic și
+animat, dar este la fel de tăcut ca mortul căruia îi _„atârnau aripile de plumb”_.
+
+| _„Dormea întors amorul meu de plumb / Pe flori de plumb, și-am început să-l strig --_
+| _Stam singur lângă mort... și era frig... / Și-i atârnau aripile de plumb.”_
+
+Universul bacovian este marcat de o tristețe obositoare și cuprinzătoare, amplificată
+de repetiția constantă a simbolurilor și imaginilor ca într-un cântec funebru.
+Cu toate acestea, vocea internă a eului liric pare uneori să fie conștientă de starea
+sa, și își _comunică_ deseori tristețea față de cititor într-o manieră care ar indica
+un fel de autoironie:
+
+| „Tremur, tremur, tremur... / Orice ironie / Vă rămâne vouă_
+| _Noaptea e târzie / Tremur, tremur, tremur...”_
+|   (_Rar_)
+
+Această filosofie, intenționată sau nu, pare să reflecte un fel de mizantropism
+delăsător și impersonal, uneori declanșat de-o dorință de liniște:
+
+| _„Si plictisit de-a vieții întrebări răspunsul meschin_
+| _și fugitiv în loc de atâtea lacrimi, să ploaie, liniștit!”._
+|   (_Pace_)
+
+Alteori motivat de dorința iubirii absolute:
+
+| _„Tot mai tăcut și singur_
+| _În lumea mea pustie --_
+| _Și tot mai mult m-apasă_
+| _O grea mizantropie._
+|  
+| _Din tot ce scriu, iubito,_
+| _Reiese-atât de bine --_
+| _Aceeași nepăsare_
+| _De oameni, și de tine.”_
+
+Și, într-un final, de însăși starea lăuntrică a eului liric:
+
+| _„Și toate se re-ntorc din drumul lor,_
+| _Și mândră primăvara vine,_
+| _Cu soare blând, cu nopți albastre_
+| _Fermecătoare și senine._
+|   
+| _Dar fără ea, ce suvenir_
+| _Spre gânduri triste mă îndeamnă?_
+| _Muguri au dat pe ram,- zadarnic,_
+| _În a mea inimă e toamnă!”_
+|   (_Și toate_)
 
 # Bibliografie
 - Al. Andrei, _Comentarii literare pentru clasele IX-XII, bacalaureat și admiterea în învățământul superior_, Editura Nova, București, 1994
