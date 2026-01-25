@@ -9,8 +9,69 @@ __ÎN LUCRU__
 
 ## Mihai Eminescu -- Poetul național
 
-Mihai Eminescu ( -- ) a fost „ultimul poet romantic român”, considerat cel mai
-apreciat și influent poet din istoria literaturii române.
+Mihai Eminescu (1850 -- 1889) a fost „ultimul poet romantic român”, considerat
+cel mai apreciat și influent poet din istoria literaturii române. Sa născut pe
+data de 15 ianuarie 1850 la Botoșani, fiul căminarului Gheorghe Eminovici și
+Ralucăi Eminovici, fiica stolnicului din Joldești. Numele său la naștere a fost
+Mihail Eminovici, pe urmă schimbat în _Eminescu_ de Iosif Vulcan, redactorul
+revistei _Familia_, cu prilejul publicării poeziei de debut _De-aș avea_.
+Pe parcursul vieții lui Eminescu, a publicat doar un singur volum de poezii în
+anul 1884, întitulat _Poesii_, redactat de criticul literar și mentorul poetului,
+Titu Maiorescu, directorul Junimii. Volumul conține operele publicate de poet
+în revista culturală _Convorbiri literare_ a societății _Junimea_ și cuprinde un
+număr mare din operele sale celebre, din care amintim: _Luceafărul_, _Odă_,
+_Epigonii_, _Ce te legeni..._, _Floare albastră_, _Criticilor mei_ etc.
+
+Perioada de creație a artistului a durat în total doar 17 ani, începând cu debutul
+acestuia la vârsta de 16 ani cu poemul _De-aș avea_, până la vârsta de 33 ani,
+oprit tragic din a mai scrie de înrăutățirea sănătății sale fizice și mentale.
+După moartea poetului, manuscrisele acestuia au fost donate Academiei Române de
+către Titu Maiorescu în anul 1902, apoi au fost publicate postum începând cu anii 30
+datorită criticului G. Călinescu.
+
+Eminescu și-a petrecut perioada de formare academică la Universitatea din Viena,
+cu o bursă de studii obținută din dorința lui Titu Maiorescu. În timpul studiilor
+la Viena se întâlnește cu Ioan Slavici, care îi va rămâne prieten bun, și Veronica
+Micle, iubirea vieții sale, dar care va rămâne tragic în afara ariei sale.
+După întoarcerea în țară a funcționat în mai multe posturi cu susținerea lui Titu
+Maiorescu, inclusiv revizor școlar pentru județele Iași și Vlasui. Tot în această
+perioadă se întâlnește cu Ion Creangă, ducând la una dintre cele mai cunoscute
+prietenii din istoria noastră literară. 
+
+Între anii 1870-1877, a publicat frecvent în revista _Convorbiri Literare_,
+și este, în cuvintele lui Titu Maiorescu, apreciat de cititori și critici
+ca „poet în toată puterea cuvântului”. Se ocupă ca redactor al ziarului
+_Timpul_ între anii 1877-1883, timp în care scrie și publică unele dintre
+cele mai apreciate poeme ale sale, _Luceafărul_ și seria _Scrisorile_.
+
+În calitate de ultim reprezentant al mișcării romantice[^r] în literatura românească
+(uneori considerat un post-romantic) și un precursor al poeziei moderne, creația
+lirică eminesciană reprezintă un veritabil _pot-pourri_ de idei și motive literare
+datorate unei lecturi demnă de un erudit, plecând de la miturile Greciei Antice
+și Vedele din Vechia Indie, la clasicii secolului său și marii filosofi germani care au
+marcat desăvârșit gândirea și _Weltanschauung_-ul (perspectiva asupra lumii) poetului.
+Poemele sale îmbină idei preluate din metafizică, astrologie, mitologie, istorie
+și filosofie (în special noțiunea lui Schopenhauer a vieții înțeleasă ca vis)
+cu o interpretare specifică folclorului românesc autohton, de filieră romantică.
+
+Majoritatea poeziilor lui Eminescu se pot grupa după un număr restrâns de teme
+abstracte sau concrete precum și scene specifice în universul poetului: iubirea,
+natura, moartea, viața, nașterea, cosmogeneza[^c], condiția geniul (neînțeles) etc.
+Și mai diverse sunt _motivele literare_ care apar pe tot parcursul textelor,
+prin intermediul cărora este exemplificată atât concepția poetului despre lume,
+univers și emoțiile umane (_Luceafărul_, _Memento mori_, _Floare albastră_), cât
+și idealurile sale pentru poezie (_Epigonii_).
+
+[^r]: Romantismul a fost o mișcare artistică și literară apărută la sfârșitul
+sec. XVIII în Anglia, apoi răspândită în restul Europe, ca reacție contra
+stilului rigid și formal al clasicismului. Este uneori grupată și cu mișcarea
+_Sturm und Drang_ din regiunea actuală a Germaniei. A avut ca ideal estetic
+preluarea tradițiilor populare și naționale, emanciparea culturii naționale,
+lirismul, subiectivitatea, fantezia și exprimarea emoțiilor puternice.
+
+[^c]: Cosmogenéză: concepția filosofică, religioasă sau metafizică despre
+creația/nașterea universului, din gr. _kosmos_ (lume, univers) + _genesis_
+(naștere).
 
 ## Octavian Goga
 
@@ -198,9 +259,9 @@ Regăsim în opera sa și un simț aparte al muzicalității, pe care o trateaz�
 | _De voluptoasă-ndurare.”_
 |   (idem, C. III)
 
-[^spleen]: Stare de melancolie, exprimată prin plictiseală, dezgust sau chiar angoasă.
-Termenul a fost popularizat, împreună cu adjectivul în lb. franceză _splénétique_, de
-poeziile lui Charles Baudelaire. V. _« Le Spleen de Paris »_.
+[^spleen]: Spleenul este o stare de melancolie, exprimată prin plictiseală, dezgust
+sau chiar angoasă. Termenul a fost popularizat, împreună cu adjectivul în lb. franceză
+_splénétique_, de poeziile lui Charles Baudelaire. V. _« Le Spleen de Paris »_.
 
 ## Dimitrie Anghel
 
@@ -319,3 +380,5 @@ activității sale literare.
 - Constanța Bărboi, _Simbolismul românesc; Alexandru Macedonski -- George Bacovia_, Editura Universitară, București, 2007
 
 - Florea Firan, Constantin M. Popa, _Macedonski -- Bacovia, Simbolismul românesc_, Editura Macedonski, Craiova, 1993
+
+- Gh. Bulgăr, _Eminescu; Coordonate istorice și stilistice ale operei_, Editura Junimea, Iași, 1980
