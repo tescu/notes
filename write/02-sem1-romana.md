@@ -9,6 +9,10 @@ __ÎN LUCRU__
 
 ## Mihai Eminescu -- Poetul național
 
+:::image
+![Mihai Eminescu](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Eminescu.jpg/500px-Eminescu.jpg)
+:::
+
 Mihai Eminescu (1850 -- 1889) a fost „ultimul poet romantic român”, considerat
 cel mai apreciat și influent poet din istoria literaturii române. Sa născut pe
 data de 15 ianuarie 1850 la Botoșani, fiul căminarului Gheorghe Eminovici și
@@ -59,8 +63,113 @@ abstracte sau concrete precum și scene specifice în universul poetului: iubire
 natura, moartea, viața, nașterea, cosmogeneza[^c], condiția geniul (neînțeles) etc.
 Și mai diverse sunt _motivele literare_ care apar pe tot parcursul textelor,
 prin intermediul cărora este exemplificată atât concepția poetului despre lume,
-univers și emoțiile umane (_Luceafărul_, _Memento mori_, _Floare albastră_), cât
-și idealurile sale pentru poezie (_Epigonii_).
+univers și emoțiile umane (_Luceafărul_, _Memento mori_, _Floare albastră_ etc.),
+cât și idealurile sale pentru poezie (_Epigonii_).
+
+### _Epigonii_, _ars poetica_ eminesciană
+
+Eminescu și-a exprimat noțiunile despre poezie și rolul său în mai multe poezii,
+din care aducem aminte: _Glossă_, _Odă (în metru antic)_, _Criticilor mei_ etc.
+Totuși, una dintre cele mai reprezentative opere de această natură din antologia
+poetului este arta poetică (_ars poetica_) _Epigonii_, publicată în anul 1870
+în revista _Convorbiri Literare_.
+
+### _Luceafărul_, condiția geniului în societate
+
+_Luceafărul_ reprezintă apogeul poeziei lirico-filosofice eminesciene, de
+inspirație dintr-un basm cules de germanul Kunisch, așa cum reiese din notele
+poetului. Poemul poate fi văzut în două planuri, mai întâi literar ca o poveste
+fantastică de iubire, apoi alegoric o înfățisare a dramei omului de geniu și
+incapacității omului de rând, pământean mărginit, de a-și depăși condiția umană.
+
+Poemul este construit în antiteză, oscilând între planul cosmic și fantastic
+(universul geniului) și cel terestru și uman (universul oamenilor). Realizând
+o tragedie modernă a iubirii imposibile, _Luceafărul_ depășește cu mult sursa
+sa de inspirație și devine o alegorie profundă a concepțiilor poetului despre
+soarta geniului, idealul iubirii și imposibilitatea intercalării planului uman,
+mărginit și material, cu planul absolutului, imaterial și într-o continuă
+căutare cunoașterii și iubirii.
+
+Poemul păstrează schema narativă generală a sursei de inspirație, fiind vorba
+despre relația dintre steaua luceafărului (în poem _Hyperion_) și o fată de
+împărat (Cătălina). Steaua Luceafărului se manifestă în operă ca un zmeu,
+evocat după chemarea ființei iubite:
+
+| _„Cobori în jos, luceafăr blând, / Alunecând pe-o rază,_
+| _Pătrunde-n casă și gând / Și viața-mi luminează!”_
+
+Tragedia condiției geniului este evidențiată după ce Hyperion îi cere iubirei
+sale să renunțe la viața sa lumească și să-l urmeze. Cătălina, ființă umană
+și terestră, mărginită, nu se poate înălța până la steaua iubită și, terifiată
+de necunoscut, renunță:
+
+| _„-- O, ești frumos, cum numa-n vis / Un înger se arată_
+| _Dară pe calea ce-ai deschis / N-oi merge niciodată;_
+| _Străin la vorbă și la port, / Lucești fără de viață,_
+| _Căci eu sunt vie, tu ești mort / Și ochiul tău mă-ngheață”_
+
+Mistuit de flăcările iubirii, Hyperion ascultă de dorința Cătălinei și începe
+o călătorie cosmică, descrisă într-un mod unic chiar și în literatura universală,
+prevestind parcă zborurile cosmice ale lumii moderne:
+
+| _„Porni luceafărul. Creșteau / În cer a lui aripe,_ 
+| _Și căi de mii de ani treceau / În tot atâtea clipe._
+| _Un cer de stele dedesupt, / Deasupra-i cer de stele--_
+| _Părea un fulger ne-ntrerupt / Rătăcind prin ele”_
+
+Din dorința de materialitate și convețiuire cu Cătălina, Hyperion îi cere lui
+Dumnezeu cu patos și umilitate să devină om muritor:
+
+| _„O, cere-mi, Doamne, orice preț, / Dar dă-mi o altă soarte,_
+| _Căci tu izvor ești de vieți / Și dătător de moarte._
+| _Reia-mi al nenumirii nimb / Și focul din privire_
+| _Și pentru toate dă-mi în schimb / O oră de iubire...”_
+
+Afirmând caracterul vremelnic și uman al Cătălinei, apare o idilă banală
+dintre aceasta și pajul Cătălin, servind drept un element contrastant
+alegoric al egoismului omului de rând _„Ea-l asculta pe copilaș / Uimită
+și distrasă ...”_.
+
+Atitudinea luceafărului la finalul poemului este surprinzătoare având în
+vedere sursa de inspirație (unde fata de împărat este pedepsită de către
+stea), dar afirmă încă o dată concepția poetului despre soarta geniului.
+Sacrificul suprem al geniului este înțeles într-o lume în care nu poate
+fi înțeles sau apreciat, unde nu poate provoca nici suferința, nici
+fericirea, Hyperion „n-are moarte, dar n-are nici noroc”. Puterea lui
+de sacrificiu, de renunțare la frământările și răbufnirile egoiste ale
+lumii materiale consolidează imaginea geniului ca ființă superioară,
+de unde se explică tonul detașat la abandonarea iubirii sale:
+
+| _„Ce-ți pasă ție, chip de lut, / Dac-oi fi eu sau altul?_
+| _Trăind în cercul vostru strâmt / Norocul vă petrece,_
+| _Ci eu în lumea mea mă simt / Nemuritor și rece.”_
+
+#### Proza eminesciană, _Sărmanul Dionis_
+
+În manuscrisele publicate postum ale poetului național, au fost găsite mai
+multe schițe și fragmente pentru mai multe nuvele și romane, cum ar fi:
+_Geniu pustiu_, _Călin nebunul_ și, probabil cea mai fascinantă dintre
+acestea, _Sărmanul Dionis_.
+
+Lui Eminescu îi este atribuită scrierea primei lucrări S.F. (science-fiction)
+din literatura română, publicată postum din manuscrisele sale. Nuvela fantastică
+prezintă, în cuvintele lui G. Călinescu, „un lanț de viziuni” mistice, confuze
+și ermetice, axate în jurul unei idei filosofice cel mai probabil preluată de la
+concepția de _viață ca vis_ lui Schopenhauer.
+
+Acțiunea nuvelei descrie viața tânărului Dionis care, după obținerea cărții
+magice lui Zoroastru, se trezește cu aproape 500 de ani în urmă, în timpul
+domniei lui Alexandru cel Bun, drept călugărul Dan, discipol al dascălului
+Ruben. Descoperind tainele lumii, Dan pleacă pe lună cu iubirea sa Maria și
+îi construiește un palat în existență. Opera îmbină subtil planurile lui Dan
+și cel al lui Dionis, iar finalul, trezirea lui Dan și a lui Dionis în „prezent”,
+acompaniat de un citat de Theophile Gautier despre posibilitatea de-a trăi
+o nostalgie a viitorului reflectă o măiestrie desăvârșită a contopirii
+realității cu fantasticul.
+
+Nuvela impresionează prin unicitatea și modernitatea temelor abordate, prin
+folosirea minunată a noțiunilor filosofice și prin finalul ambiguu capabil
+să persiste îndelungat în memoria cititorului.
 
 [^r]: Romantismul a fost o mișcare artistică și literară apărută la sfârșitul
 sec. XVIII în Anglia, apoi răspândită în restul Europe, ca reacție contra
@@ -259,9 +368,10 @@ Regăsim în opera sa și un simț aparte al muzicalității, pe care o trateaz�
 | _De voluptoasă-ndurare.”_
 |   (idem, C. III)
 
-[^spleen]: Spleenul este o stare de melancolie, exprimată prin plictiseală, dezgust
-sau chiar angoasă. Termenul a fost popularizat, împreună cu adjectivul în lb. franceză
-_splénétique_, de poeziile lui Charles Baudelaire. V. _« Le Spleen de Paris »_.
+[^spleen]: Spleenul este o stare de melancolie, exprimată prin plictiseală,
+dezgust sau chiar angoasă. Termenul a fost popularizat, împreună cu adjectivul
+în lb. franceză _splénétique_, de poeziile lui Charles Baudelaire.
+V. [_« Le Spleen de Paris »_](https://fr.wikipedia.org/wiki/Le_Spleen_de_Paris).
 
 ## Dimitrie Anghel
 
@@ -382,3 +492,5 @@ activității sale literare.
 - Florea Firan, Constantin M. Popa, _Macedonski -- Bacovia, Simbolismul românesc_, Editura Macedonski, Craiova, 1993
 
 - Gh. Bulgăr, _Eminescu; Coordonate istorice și stilistice ale operei_, Editura Junimea, Iași, 1980
+
+- Nicolae Manolescu, _Istoria critică a literaturii române_, Editura Paralela 45, Pitești, 2008
