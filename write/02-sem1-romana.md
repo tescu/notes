@@ -14,10 +14,10 @@ __ÎN LUCRU__
 :::
 
 Mihai Eminescu (1850 -- 1889) a fost „ultimul poet romantic român”, considerat
-cel mai apreciat și influent poet din istoria literaturii române. Sa născut pe
-data de 15 ianuarie 1850 la Botoșani, fiul căminarului Gheorghe Eminovici și
+cel mai apreciat și influent poet din istoria literaturii române. S-a născut pe
+data de 15 ianuarie 1850 la Botoșani, fiul căminarului Gheorghe Eminovici și al
 Ralucăi Eminovici, fiica stolnicului din Joldești. Numele său la naștere a fost
-Mihail Eminovici, pe urmă schimbat în _Eminescu_ de Iosif Vulcan, redactorul
+Mihail Eminovici, dar a fost schimbat în _Eminescu_ de Iosif Vulcan, redactorul
 revistei _Familia_, cu prilejul publicării poeziei de debut _De-aș avea_.
 Pe parcursul vieții lui Eminescu, a publicat doar un singur volum de poezii în
 anul 1884, întitulat _Poesii_, redactat de criticul literar și mentorul poetului,
@@ -52,8 +52,8 @@ cele mai apreciate poeme ale sale, _Luceafărul_ și seria _Scrisorile_.
 (uneori considerat un post-romantic) și un precursor al poeziei moderne, creația
 lirică eminesciană reprezintă un veritabil _pot-pourri_ de idei și motive literare
 datorate unei lecturi demnă de un erudit, plecând de la miturile Greciei Antice
-și Vedele din Vechia Indie, la clasicii secolului său și marii filosofi germani care au
-marcat desăvârșit gândirea și _Weltanschauung_-ul (perspectiva asupra lumii) poetului.
+și Vedele din Vechia Indie, la clasicii secolului său și marii filosofi germani care
+i-au marcat desăvârșit gândirea și _Weltanschauung_-ul (perspectiva asupra lumii).
 Poemele sale îmbină idei preluate din metafizică, astrologie, mitologie, istorie
 și filosofie (în special noțiunea lui Schopenhauer a vieții înțeleasă ca vis)
 cu o interpretare specifică folclorului românesc autohton, de filieră romantică.
@@ -66,7 +66,7 @@ prin intermediul cărora este exemplificată atât concepția poetului despre lu
 univers și emoțiile umane (_Luceafărul_, _Memento mori_, _Floare albastră_ etc.),
 cât și idealurile sale pentru poezie (_Epigonii_).
 
-### _Epigonii_, _ars poetica_ eminesciană
+### Ars poetica eminesciană
 
 Eminescu și-a exprimat noțiunile despre poezie și rolul său în mai multe poezii,
 din care aducem aminte: _Glossă_, _Odă (în metru antic)_, _Criticilor mei_ etc.
@@ -88,7 +88,7 @@ o tragedie modernă a iubirii imposibile, _Luceafărul_ depășește cu mult sur
 sa de inspirație și devine o alegorie profundă a concepțiilor poetului despre
 soarta geniului, idealul iubirii și imposibilitatea intercalării planului uman,
 mărginit și material, cu planul absolutului, imaterial și într-o continuă
-căutare cunoașterii și iubirii.
+căutare a cunoașterii și a iubirii.
 
 Poemul păstrează schema narativă generală a sursei de inspirație, fiind vorba
 despre relația dintre steaua luceafărului (în poem _Hyperion_) și o fată de
@@ -131,8 +131,8 @@ alegoric al egoismului omului de rând _„Ea-l asculta pe copilaș / Uimită
 și distrasă ...”_.
 
 Atitudinea luceafărului la finalul poemului este surprinzătoare având în
-vedere sursa de inspirație (unde fata de împărat este pedepsită de către
-stea), dar afirmă încă o dată concepția poetului despre soarta geniului.
+vedere sursa de inspirație (unde fata de împărat este pedepsită zmeu),
+dar afirmă încă o dată concepția poetului despre soarta geniului.
 Sacrificul suprem al geniului este înțeles într-o lume în care nu poate
 fi înțeles sau apreciat, unde nu poate provoca nici suferința, nici
 fericirea, Hyperion „n-are moarte, dar n-are nici noroc”. Puterea lui
@@ -147,7 +147,7 @@ de unde se explică tonul detașat la abandonarea iubirii sale:
 #### Proza eminesciană, _Sărmanul Dionis_
 
 În manuscrisele publicate postum ale poetului național, au fost găsite mai
-multe schițe și fragmente pentru mai multe nuvele și romane, cum ar fi:
+multe schițe și fragmente pentru câteva nuvele și romane, cum ar fi:
 _Geniu pustiu_, _Călin nebunul_ și, probabil cea mai fascinantă dintre
 acestea, _Sărmanul Dionis_.
 
@@ -161,15 +161,15 @@ Acțiunea nuvelei descrie viața tânărului Dionis care, după obținerea căr�
 magice lui Zoroastru, se trezește cu aproape 500 de ani în urmă, în timpul
 domniei lui Alexandru cel Bun, drept călugărul Dan, discipol al dascălului
 Ruben. Descoperind tainele lumii, Dan pleacă pe lună cu iubirea sa Maria și
-îi construiește un palat în existență. Opera îmbină subtil planurile lui Dan
-și cel al lui Dionis, iar finalul, trezirea lui Dan și a lui Dionis în „prezent”,
-acompaniat de un citat de Theophile Gautier despre posibilitatea de-a trăi
-o nostalgie a viitorului reflectă o măiestrie desăvârșită a contopirii
+îi construiește un palat șoptindu-l în existență. Opera îmbină subtil planurile
+lui Dan și cel al lui Dionis, iar finalul, trezirea lui Dan și a lui Dionis
+în „prezent”, acompaniat de un citat de Theophile Gautier despre posibilitatea
+de-a trăi o nostalgie a viitorului reflectă o măiestrie desăvârșită a contopirii
 realității cu fantasticul.
 
 Nuvela impresionează prin unicitatea și modernitatea temelor abordate, prin
-folosirea minunată a noțiunilor filosofice și prin finalul ambiguu capabil
-să persiste îndelungat în memoria cititorului.
+folosirea minunată a noțiunilor filosofice și prin finalul deschis, ambiguu
+capabil să persiste îndelungat în memoria cititorului.
 
 [^r]: Romantismul a fost o mișcare artistică și literară apărută la sfârșitul
 sec. XVIII în Anglia, apoi răspândită în restul Europe, ca reacție contra
@@ -210,7 +210,7 @@ _„Însemnări ieșene”_ ca un ultim efort literar.
 :::
 
 Alexandru Macedonski (1854 -- 1920) a fost un poet, prozator și dramaturg român,
-considerat unul dintre întemeietorii și primul reprezentat al curentului simbolist
+considerat unul dintre întemeietorii și primul reprezentant al curentului simbolist
 în literatura română, fiind inspirat de literatura franceză. A fondat cenaclul și
 revista literară _„Literatorul”_ care, deși s-a aflat într-o constantă polemică
 cu revista „Junimea”, a contribuit considerabil la dezvoltarea și modernizarea
@@ -460,11 +460,11 @@ pur melancolic al poeților francezi într-o manifestare a spectacolului:
 
 ### _„Romanțele”_
 
-Cele mai cunoscute opere poezii scrise de Ion Minulescu aparțin, fără îndoială, seriei
+Cele mai cunoscute poeme scrise de Ion Minulescu aparțin, fără îndoială, seriei
 _Romanțe pentru mai târziu_, o parte fiind publicate mai întâi în revista
-_Viața literară și artistică_ lui Ilarie Chendi, apoi culese într-un volum în anul 1908.
-La origine, cuvântul _romanță_ înseamnă o compoziție muzicală vocală cu acompaniament
-instrumental și cu versuri lirice sentimentale.
+_Viața literară și artistică_ lui Ilarie Chendi, apoi culese într-un volum în
+anul 1908. La origine, cuvântul _romanță_ înseamnă o compoziție muzicală vocală
+cu acompaniament instrumental și cu versuri lirice sentimentale.
 
 # George Bacovia
 
@@ -523,7 +523,7 @@ capabilă să cuprindă fiecare colț al firii. O lume obosită, intrată în de
 este exprimată doar printr-o nuanță de violet:
 
 | _„Amurg de toamnă violet... / Pe drum e-o lume leneșă, cochetă_
-| _Mulțimea toată pare violetă, / Orașul tot e violet.”
+| _Mulțimea toată pare violetă, / Orașul tot e violet.”_
 |   (_Amurg violet_)
 
 Gesturile capătă aspect mecanic. Emoțiile sunt expuse într-o frenezie fără sfârșit,
@@ -536,7 +536,7 @@ pustiu:
 | _Parfum, polen și histerie, -- / Atunci, în parc, și ea venea.”_
 
 Cea mai reprezentativă operă pentru exprimarea simbolistă în opera bacoviană este, de
-departe, poezia _Plumb_. De-o simplitate remarcabilă, poezie descrie în două strofe
+departe, poezia _Plumb_. De-o simplitate remarcabilă, poezia descrie în două strofe
 sentimentul de izolare inefabilă. Cuvântului _plumb_ îi se acordă rolul de simbol al
 neantului și epuizării, prin care este descris obsedant fiecare element:
 
