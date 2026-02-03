@@ -7,11 +7,15 @@ lang: en
 
 # The Victorian Age
 
-The Victorian Age is one of the most intriguing periods of English history,
-being in itself a period of contradictions, moral uncertainty, and prejudice.
-Its name comes from the reign of Queen Victoria (1819 -- 1901), whose reign of
-63 years and 216 days defined the Victorian era as a whole, outlasting that of
-any of her predecessors.
+:::image
+![Queen Victoria](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Queen_Victoria_-_Queen_Victoria_in_1876.png/330px-Queen_Victoria_-_Queen_Victoria_in_1876.png)
+:::
+
+The Victorian Age is one of the most intriguing and, perhaps, most well known
+periods of English history, being a period characterised by its contradictions,
+moral uncertainty, and prejudice. The period was named after Queen Victoria
+(1819 -- 1901), whose reign of 63 years and 216 days defined the Victorian
+era as a whole, being longer than any of her predecessors.
 
 The Victorian era also marks the beginning of industrialization, the rising
 interest in scientific experiments and discoveries, and a widening horizon
@@ -21,14 +25,47 @@ transformed the lives of English people, common folk and nobility alike.
 
 ## Victorian Ethos and Society
 
-As mentioned above, the Victorian era is, perhaps, best described by its
-contradictions, the stark contrast between what was considered socially
-adequate and proper, and what many people faced and saw.
+Life in Victorian England was deeply impacted by the introduction of what
+was known as _social classes_, centered around the idea of structuring
+the British society in an hierarchical order, based on the peoples' wealth,
+social status, and sometimes even their family roots. The people of England
+were split into three main classes:
 
+1. __The working class__
+    - This is the most separated group from the other classes. People born
+    in this class faced the worst living conditions and the highest amount
+    of prejudice, being forced to a life of cruel labor and poverty. Many
+    of the working class would die from starvation or sickness, due to the
+    nature of their work and poverty. It was very improbable for anyone born
+    in this class to advance up the social ladder, or become respected in the
+    upper classes.\
+    As the name implies, the _working class_ was the social group that were
+    occupied with manual labor. Not only men were forced to physical labor,
+    but also the women and children, most often in places like factories or
+    halls, with little regard to their hygiene, health, or general well-being.
+2. __The middle class__
+    - This is the group of people that had a stable financial income and could
+    afford some of the luxuries available during the Victorian times, but were
+    not part of the aristrocacy of the higher class. Many of the members of this
+    class were hard workers, usually dealing with the more intellectual side
+    of work, such as accounting, law, commerce or, more rarely, even by writing.\
+    It was, at times, possible for people of the working class to work their way
+    up into the middle class. One such example is the infamous Victorian writer,
+    Charles Dickens, who spent most of his childhood working at a factory, but
+    managed to gain a considerable fortune in his adult years working as a writer
+    and journalist.
+3. __The upper class__
+    - Most of the members of the upper class were born as such due to family
+    connections or bloodline from a royal family. These people held the highest
+    social status in England, and were usually the wealthiest, owning a lot of
+    land or businesses. They were also the people to hold the highest political
+    power of the time and, as such, the lower classes would very rarely get in
+    contact with any of their members.
+    
 ## Victorian Literature
 
-Though it may seem like a grim period for anyone to live in, Victorian
-Literature is remarkably abundant in works of satire, humour, and witfulness.
+Though it may seem like a grim period for anyone to live in, most of Victorian
+literature is remarkably abundant in works of satire, humour, and witful stories.
 These comical works served as a way for the writers to express their distaste
 with the way that British society had evolved, while also being of great value
 to the common reader, who began to felt noticed and appreciated, and could
@@ -51,13 +88,57 @@ founded in the year 1848.
 
 # Charles Dickens
 
-Charles Dickens (1812 -- 1870) was an English novelist and journalist, and
+:::image
+![Charles Dickens](https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Dickens_Gurney_head.jpg/330px-Dickens_Gurney_head.jpg)
+:::
+
+Charles Dickens (1812 -- 1870) was an English novelist, journalist, and
 social critic. He is most well-known for his semi-autobiographical novels,
 commonly refered to as _"social novels"_, due to the social themes that are
 scattered throughout his work. Dickens' literary output greatly influenced many
 other English authors and is still enjoyed by critics and readers well into our
 current era, with novels like _A Christmas Carol_ enjoying modern adaptations
 into film, musicals, and children's cartoons.
+
+Charles Dickens was born into a poor family but enjoyed relatively decent living
+conditions during the first years of his life. However, things took a turn for
+the worse after he turned 12 years old, when his father was arrested and sent to
+prison, due to not being able to pay his taxes on time. For young Dickens, this
+meant having to quit school and start doing manual labor in order to sustain his
+poor family. Thus, young Dickens had to work in a very poor factory with severely
+unsanitary working conditions. Lamentably so, child labor was very common during
+the Victorian Age, and consequently, during Dickens' time. His childhood experiences
+served as the base for his writings, having greatly impacted his way of thinking
+and ethics.
+
+Dickens began his writing career while he was still a teenager, and gradually
+started going up the social ladder from his modest income. His writing was an
+almost instant hit in England, largely due to the auto-biographical elements
+that captivated readers, and the ethical themes tackled in his stories. His novels
+are commonly referred to as _social novels_, and indeed the social inequality
+and ethical problems of Victorian England shown in Dickens' novels were highly
+influential during his time, since most of his readers could relate to the suffering
+and injustice faced by his characters. Two of his most popular novels, _Great
+Expectations_ and _David Copperfield_ were directly inspired by his childhood.
+
+One of Charles Dickens' novels that best encompasses his writing style is the
+aforementioned _David Copperfied_. The novel is a bildungsroman (a coming of age
+story), closely following the life of the eponymous character, David Copperfield,
+from his early childhood well into his maturity. This is, perhaps, the novel where
+the autobiographical elements of Dicken's writing can be seen the most.
+Starting with the main character's name, which matches the author's own initials
+(D.C. and C.D.), to his calm demeanor and personality, and his path to becomming
+a successful writer. In fact, Dickens affirms in his own words that this novel
+had a very special place in his heart, declaring:
+
+| _"Of all my books, I like this the best."_
+
+Charles Dickens' contributions to English literature greatly influenced the rising
+popularity of the novel as a literary form that can be enjoyed by the masses. His
+social and ethical themes also paved the way to shaping the opinions and ideas of
+many of his readers, greatly contributing to raising awareness among people of the
+higher classes regarding the greatly disturbing living conditions of those of the
+lower class.
 
 # The Victorian Novel and Novelists
 
@@ -69,7 +150,24 @@ been born into one of the territories under colonial rule of England has greatly
 influenced his work, as can be seen in his novel _Vanity Fair_, a satire novel
 criticizing 19th century British society.
 
-[^k]: In what is now the modern-day city of Kolkata, India.
+Thackeray first started writing while working for a few newspapers, and later chose
+to write books as his primary source of income, publishing under a number of pseudonyms.
+His first novels were satires and parodies, but his first successful and most popular
+work was _Vanity Fair_, published in monthly parts from 1847 to 1848, under his real
+name. The choice to publish in a serial format was likely inspired by Charles Dickens'
+success in using this method of publishing. Thackeray's _Vanity Fair_ was, by far,
+his most successful work, with critics placing him second only to Charles Dickens during
+his lifetime.
+
+_Vanity Fair_ is a satirical novel largely mocking of English society during Victorian
+times. The work stands out because of its satirisation of 19th century British societal
+norms, as can be noticed from its two subtitles, first published with the subtitle
+_"Pen and Pencil Sketches of English Society"_, then republished as a single volume with
+the subtitle _"A novel without a hero"_, hinting at its sarcastic nature.
+The novel is written like a puppet play and is one of the first examples of an _unreliable_
+narrator in English literature.  
+
+[^k]: Calcutta was a part of British India, in what is now the modern-day city of Kolkata, India.
 
 ## The Brontë Sisters
 The Brontë Sisters were, as the name implies, a group of sisters from the Brontë
