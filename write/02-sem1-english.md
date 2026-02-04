@@ -193,26 +193,76 @@ title: _'All is vanity, nothing is fair'._
 [^more]: From Latin _mõres_, plural only. A set of normal norms or customs in a society.
 
 ## The Brontë Sisters
-The Brontë Sisters were, as the name implies, a group of sisters from the Brontë
-family, all of whom were novelists and poets. The sisters -- Charlotte, Emily, and
-Anne -- all had published their works under male pseudonyms taken from their initials
-in order to avoid scrutiny from readers and critics: __Currer Bell__, __Ellis Bell__,
-and __Acton Bell__.
 
-Two novels written by the sisters are most widely acclaimed by critics for thier
-literary value, namely _Jane Eyre_ by Charlotte Brontë, and _Wuthering Heights_ by
-Emily Brontë.
+:::image
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/The_Bront%C3%AB_Sisters_by_Patrick_Branwell_Bront%C3%AB_restored.jpg/500px-The_Bront%C3%AB_Sisters_by_Patrick_Branwell_Bront%C3%AB_restored.jpg)
+Portrait of the Brontë sisters by their brother, Branwell. The painting originally
+featured his image as well, but he decided to remove it afterwards so as to not
+clutter the picture.
+:::
+
+The Brontë Sisters were, as the name implies, a group of sisters from the Brontë
+family, all of whom were novelists and poets, and had a deep passion for the arts
+and literature. Their brother, Branwell, was a talented painter. The sisters
+-- Charlotte, Emily, and Anne -- all have written astonishing works, which were
+published their works under male pseudonyms in order to avoid scrutiny from readers
+and/or critics. These pseudonyms were taken from their initials, and were intentionally
+bland: __Currer Bell__, __Ellis Bell__, and __Acton Bell__.
+
+The Brontë sisters were some of the most influential figures in English literature,
+making astonishing contributions to its development and popularisation. Their works
+and tragic life stories, characterized by illness and unfulfilled aspirations, had
+a profound impact on Victorian society and thought. Two of the novels written by the
+sisters are most widely acclaimed by critics for thier literary value, namely _Jane Eyre_
+by Charlotte Brontë, and _Wuthering Heights_ by Emily Brontë. 
 
 ### Emily Brontë
+
 Emily Brontë (1818 -- 1848) was the fifth of the six Brontë siblings, of whom only
 four survived into adulthood. Her only novel, _Wuthering Heights_, published in 1847,
 under the pen name __Ellis Bell__ is commonly considered one of the greatest novels
-written in English.
+written in English. Very little is known of Emily's personal life, since she left
+behind only a small number of correspondence and lived a rather quiet and reserved
+life. Her novels suggest that she lived a relatively peaceful life, but she was sadly
+affected by frequent sprouts of illness, particularly tuberculosis, which ultimately
+claimed her life at the age of only 30. Although it is not known how much time Emily 
+spent writing her novel, the sheer amount of detail and its solid framework indicate
+that it was lengthy process.
+
+_Wuthering Heights_ is one of the most popular novels of English literature and regarded
+by many as a genuine British classic. The novel takes elements from both the Romantic
+and Gothic movements, which preceded her time period, but leans in especially towards
+more Gothic themes.
+
+Emily Brontë shares much of her sisters' dry humour and, particularly, Charlotte's
+violent imagination in storytelling. However, Emily is much more reserved when it
+comes to taking inspiration from her personal life, and shows no aspirations for
+a higher position in society.
 
 ### Charlotte Brontë
+
 Charlotte Brontë (1816 -- 1855) was the elder sister of the Emily and Anne. Her most
 known work is the novel _Jane Eyre_, published in the year 1848 under her pseudonym
-__Currer Bell__.
+__Currer Bell__. Unlike Emily, a lot more is known about her personal life, having
+left a huge number of letters. Charlotte had a dream of starting a school for children,
+but health and monetary problems sadly stopped her from ever reaching this dream.
+She married Arthur Bell Nicholas, an Irishman and her fourth suitor[^suitor], on June
+29, 1854. Although her husband was not as ambitious or passionate about intellectual
+matters, she was content to be his loving wife. During this time, she began work on
+_Emma_, but her pregnancy and subsequent health complications left her too unwell to
+continue writing. She died aged 38 in 1855. 
+
+[^suitor]: It was common practice, during Victorian times, for men who were seeking
+the affection or hand in marriage of a woman to partake in courting. Such men were
+called _suitors_ and would show their interest through formal visits, gifts, and polite
+conversation. Courtship was a central part of Victorian etiquette, and suitors were
+expected to be very polite and respectful towards their love interest.
+
+Charlotte's novels paved the way for further refinement of the Victorian social novels,
+featuring many themes and motifs typical of the genre. Her works had a particularly strong
+influence on contemporary readers and critics, especially _Jane Eyre_, whose narrative of
+a woman conflicted between her social status and her natural desires struck a chord with
+the public.
 
 ## George Eliot
 
@@ -220,13 +270,32 @@ __Currer Bell__.
 ![Mary Ann Evans, a.k.a. George Eliot](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/George_Eliot_BNF_Gallica_%28cropped%29.jpg/330px-George_Eliot_BNF_Gallica_%28cropped%29.jpg)
 :::
 
-
 George Eliot (1819 -- 1880), under her real name, Marry Ann Evans, was an English
 novelist, journalist, and poet. She has written seven novels in total, the most
 popular of which are _Adam Bede_ (1859), _Middlemarch_ (1871), and
-_The Mill on the Floss_ (1860).
-George Eliot's works popularised the use of literary realism across a diverse number
+_The Mill on the Floss_ (1860). Most of her novels were published under her pseudonym,
+and tipically in a serial format, much like Charles Dickens and Thackeray. She also
+translated a number of works from Italian, Latin, and German, and was fond of philosophy
+and science.
+
+Much like Charles Dickens and Thomas Hardy, she faced quite precarious living conditions
+during her childhood and was of humble origins. Her life in the countryside was most
+likely one of her greater influences in her writings, as most of her novels feature
+detailed descriptions of rural England.
+
+Critics admired Eliot's works for their realism and psychological elements, as well
+as the aforementioned descriptions of the countryside. George Eliot's works were one
+of the key elements in popularizing the use of literary realism across a diverse number
 of authors, including her contemporaries.
+
+George Eliot was a rather controversial figure of her times, challenging many of the
+moral and social taboos of Victorian England. Of her controversies, her relationship
+with George Henry Lewes, a married man, sparked the most outrage and was considered
+scandalous. Eliot lived with Lewes up until his death, and then married her longtime
+friend, John Cross, 18 months after. She, however, died only a few months after her
+marriage, in December 1880.
+
+
 
 ### Middlemarch
 _Middlemarch_ is George Eliot's most popular novel. The novel was serialised in eight
