@@ -241,28 +241,50 @@ a higher position in society.
 
 ### Charlotte Brontë
 
+:::image
+![](https://upload.wikimedia.org/wikipedia/commons/3/3a/CBRichmond.png)
+Portrait of Charlotte Brontë by [George Richmond](https://en.wikipedia.org/wiki/en:George_Richmond_(painter))
+:::
+
 Charlotte Brontë (1816 -- 1855) was the elder sister of the Emily and Anne. Her most
 known work is the novel _Jane Eyre_, published in the year 1848 under her pseudonym
 __Currer Bell__. Unlike Emily, a lot more is known about her personal life, having
 left a huge number of letters. Charlotte had a dream of starting a school for children,
 but health and monetary problems sadly stopped her from ever reaching this dream.
+
 She married Arthur Bell Nicholas, an Irishman and her fourth suitor[^suitor], on June
 29, 1854. Although her husband was not as ambitious or passionate about intellectual
 matters, she was content to be his loving wife. During this time, she began work on
 _Emma_, but her pregnancy and subsequent health complications left her too unwell to
 continue writing. She died aged 38 in 1855. 
 
-[^suitor]: It was common practice, during Victorian times, for men who were seeking
-the affection or hand in marriage of a woman to partake in courting. Such men were
-called _suitors_ and would show their interest through formal visits, gifts, and polite
-conversation. Courtship was a central part of Victorian etiquette, and suitors were
-expected to be very polite and respectful towards their love interest.
+Many of the themes present in Charlotte's work were undoubtedly taken from her own
+life experiences, mixed with a mesmerising and dynamic imagination. While ultimately
+realistic in style, her novels show a great inclination towards raw honesty in
+portraying her characters' dreams and desires, and are capable of inducing a feeling
+of suspense and mystery in the reader.
 
 Charlotte's novels paved the way for further refinement of the Victorian social novels,
 featuring many themes and motifs typical of the genre. Her works had a particularly strong
 influence on contemporary readers and critics, especially _Jane Eyre_, whose narrative of
 a woman conflicted between her social status and her natural desires struck a chord with
-the public.
+the public. The novel is a bildungsroman following the life of the eponymous character,
+Jane, as she grows into adulthood and falls in love with Mr. Rochester of Thornfield Hall.
+It was one of the first novels to revolutionise English-language prose fiction, focusing
+intesely on the interior thoughts and moral and spiritual development of the main character,
+all of which is narrated in the first person to highlighting the character's emotional state.
+The book can also be considered a _social novel_ due to its strong elements of social
+criticism and Christian morality, while also taking an individualistic stance on Jane's
+character. The novel was an instant success after its publishing, and has posthumously
+become a classic of English literature that continues to be read and enjoyed by many readers
+even in our times.
+
+
+[^suitor]: It was common practice, during Victorian times, for men who were seeking
+the affection or hand in marriage of a woman to partake in courting. Such men were
+called _suitors_ and would show their interest through formal visits, gifts, and polite
+conversation. Courtship was a central part of Victorian etiquette, and suitors were
+expected to be very polite and respectful towards their love interest.
 
 ## George Eliot
 
@@ -274,7 +296,7 @@ George Eliot (1819 -- 1880), under her real name, Marry Ann Evans, was an Englis
 novelist, journalist, and poet. She has written seven novels in total, the most
 popular of which are _Adam Bede_ (1859), _Middlemarch_ (1871), and
 _The Mill on the Floss_ (1860). Most of her novels were published under her pseudonym,
-and tipically in a serial format, much like Charles Dickens and Thackeray. She also
+and typically in a serial format, much like Charles Dickens and Thackeray. She also
 translated a number of works from Italian, Latin, and German, and was fond of philosophy
 and science.
 
@@ -295,15 +317,9 @@ scandalous. Eliot lived with Lewes up until his death, and then married her long
 friend, John Cross, 18 months after. She, however, died only a few months after her
 marriage, in December 1880.
 
-
-
 ### Middlemarch
 _Middlemarch_ is George Eliot's most popular novel. The novel was serialised in eight
 volumes from 1871 to 1872, and was published with the subtitle _'A Study of Provincial Life'_.
-
-### Adam Bede
-
-### Literary realism
 
 ## Thomas Hardy
 
