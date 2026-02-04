@@ -131,7 +131,7 @@ Starting with the main character's name, which matches the author's own initials
 a successful writer. In fact, Dickens affirms in his own words that this novel
 had a very special place in his heart, declaring:
 
-| _"Of all my books, I like this the best."_
+| _'Of all my books, I like this the best.'_
 
 Charles Dickens' contributions to English literature greatly influenced the rising
 popularity of the novel as a literary form that can be enjoyed by the masses. His
@@ -143,6 +143,10 @@ lower class.
 # The Victorian Novel and Novelists
 
 ## W. M. Thackeray
+
+:::image
+![W. M. Thackeray](https://upload.wikimedia.org/wikipedia/commons/b/bf/William_Makepeace_Thackeray_by_Jesse_Harrison_Whitehurst-crop.jpg)
+:::
 William Makepeace Thackeray (1811 -- 1863) was an English novelist and illustrator
 most appreciated for his satirical works. He was born in Calcutta[^k], in Brittish
 India, and moved to England after his father's death in 1815. His background having
@@ -162,12 +166,31 @@ his lifetime.
 _Vanity Fair_ is a satirical novel largely mocking of English society during Victorian
 times. The work stands out because of its satirisation of 19th century British societal
 norms, as can be noticed from its two subtitles, first published with the subtitle
-_"Pen and Pencil Sketches of English Society"_, then republished as a single volume with
-the subtitle _"A novel without a hero"_, hinting at its sarcastic nature.
+_Pen and Pencil Sketches of English Society_, then republished as a single volume with
+the subtitle _A novel without a hero_, hinting at its sarcastic nature.
 The novel is written like a puppet play and is one of the first examples of an _unreliable_
 narrator in English literature.  
 
+The novel draws a great deal of inspiration from two sources, the first being John
+Bunyan's _A Pilgrim's Progress'_, from which Thackeray took the concept of a never-ending
+fair taking place in a town called _Vanity_, and the second being the book of _Ecclesiastes_
+from the Bible. The elements taken from Ecclesiastes are most apparent in the novel's
+conclusion, where Thackeray adapts the Latin Vulgate quote -- _'Vanitas vanitatum'_, i.e.
+_'Vanities of vanities! All is futile!'_ -- and uses it to describe the irony of vain
+worldy ambitions and desires: _'Ah! Vanitas Vanitatum! Which of us is happy in this world?
+Which of us has desire, or having it, is satisfied?'_.
+
+William Thackeray's _Vanity Fair_ stands out as an impressive novel of great proportions,
+encompassing an irreplaceable commentary on the society and mores[^more], and featuring
+a masterful usage of the English language to convey a subtle, yet impactful read.
+The novel is one of the earliest examples of an _unreliable narrator_ in English literature.
+It features a considerable number of innovations in expressivity and description, and many
+of its quotes and wordplays have become famous, such as the play on words of the novel's
+title: _'All is vanity, nothing is fair'._
+
 [^k]: Calcutta was a part of British India, in what is now the modern-day city of Kolkata, India.
+
+[^more]: From Latin _mõres_, plural only. A set of normal norms or customs in a society.
 
 ## The Brontë Sisters
 The Brontë Sisters were, as the name implies, a group of sisters from the Brontë
@@ -192,6 +215,12 @@ known work is the novel _Jane Eyre_, published in the year 1848 under her pseudo
 __Currer Bell__.
 
 ## George Eliot
+
+:::image
+![Mary Ann Evans, a.k.a. George Eliot](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/George_Eliot_BNF_Gallica_%28cropped%29.jpg/330px-George_Eliot_BNF_Gallica_%28cropped%29.jpg)
+:::
+
+
 George Eliot (1819 -- 1880), under her real name, Marry Ann Evans, was an English
 novelist, journalist, and poet. She has written seven novels in total, the most
 popular of which are _Adam Bede_ (1859), _Middlemarch_ (1871), and
@@ -201,8 +230,7 @@ of authors, including her contemporaries.
 
 ### Middlemarch
 _Middlemarch_ is George Eliot's most popular novel. The novel was serialised in eight
-volumes from 1871 to 1872, and was published with the subtitle
-_"A Study of Provincial Life"_
+volumes from 1871 to 1872, and was published with the subtitle _'A Study of Provincial Life'_.
 
 ### Adam Bede
 
@@ -210,21 +238,56 @@ _"A Study of Provincial Life"_
 
 ## Thomas Hardy
 
+:::image
+![Thomas Hardy in 1894](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Thomas-Hardy.jpg/500px-Thomas-Hardy.jpg)
+::::
+
 Thomas Hardy (1840 -- 1928) was an English novelist and poet, best known for his
 famous social novel, _Tess of d'Urbervilles_, largely disputed at the time of its
 publishing due to the way in which it depicted the crude hardships faced by women
-during Victorian times. His novels fit into two main themes: Realism and Romanticism.
+during Victorian times. His novels fit into two main themes: Realism, most noticeable
+in his novels, and Romanticism, most apparent in his poetry. His literary output was
+quite regular throughout his career, beginning with his first published novel,
+_Desperate Remedies_ in 1871, and continuing to produce many others in the years after:
+_The Return of the Native_ (1878), _The Trumpet_ (1880), _The Mayor of Casterbridge_
+(1886), _The Woodlanders_ (1887), and finally _Tess of d'Urbervilles_ (1891).
 
 Hardy's works have been profoundly influenced by the contrast between his own
 chilhood living in a quiet rural village in Higher Bockhampton, and the busy life of
 London, where he worked from 1862 as a draftsman, designing and restoring churches.
+Despite his upbringing into the Anglican Church and work, Hardy was most likely an
+agnostic, influenced by the growing unease of Victorian society, and works of Charles
+Darwin and others. His pessimism and his belief that humans are destined to live a corrupt
+and malign fate led him to reject the consolation of Christianity and adopt a materialist
+point of view. Consequently, much of Hardy’s literary output is characterised by his
+rejection of optimism and his embrace of dark realism, as is evident in the hopeless
+yet pitiful character of his novels and poetry. 
 
-Despite being generally regarded as a novelist by most critics, Hardy considered
+While being generally regarded as a novelist by most critics, Hardy considered
 himself fundamentally a poet. His first novel, _The Poor Man and the Lady_ was ill
 received and rejected by all the publishers he contacted, leading to it never being
 published. The manuscript was destroyed by Hardy in his later years and no copies of
-it exist.
+it exist. His later works, however, were of moderate success, and his most successful
+work, _Tess of d'Urbervilles_, captivated critics due to its heavy use of _realism_.
+The author examines many of the aspects of peoples' lives during Victorian times, and
+harshly criticizes the strict beliefs and hypocrisy which defined this era. His writings
+and ideas have also been deeply influenced by the works of John Stuart Mill, an English
+philosopher, social reformer and politician.
+
+Hardy's poetry was largely inspired by the Romantic movement, particularly the poetry
+of William Wordsworth. His poetry generally features themes regarding the cruelty of
+life, the pathos of men, and the tragic irony of circumstance, oftentimes leaning into
+an image of unjust destiny. His poetic art is quite concise, but stands out due to its
+intense emotion:
+
+| _'Has some Vast Imbecility_
+|   _Mighty to build and blend_
+|   _But important to tend,_
+| _Framed us in jest, and left us now to hazardry?'_<br/>
+| (_Nature's Questioning_)
 
 # Bibliography
 
-A. G. Ward, _English Literature: Chaucer to Bernard Shaw_, Longmans Green and Co., London -- New York -- Toronto, 1958
+- __A. G. Ward__, _English Literature: Chaucer to Bernard Shaw_, Longmans Green and Co., London -- New York -- Toronto, 1958.
+
+- __Ifon Evans__, _A Short History of English Literature: Third Edition_, Pelican Books (Penguin Books), Great Britain, 1971.
