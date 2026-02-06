@@ -95,7 +95,7 @@ founded in the year 1848.
 Charles Dickens (1812 -- 1870) was an English novelist, journalist, and
 social critic. He is most well-known for his semi-autobiographical novels,
 commonly refered to as _"social novels"_, due to the social themes that are
-scattered throughout his work. Dickens' literary output greatly influenced many
+scattered throughout his work. Dickens' literary output deeply influenced many
 other English authors and is still enjoyed by critics and readers well into our
 current era, with novels like _A Christmas Carol_ enjoying modern adaptations
 into film, musicals, and children's cartoons.
@@ -136,8 +136,8 @@ had a very special place in his heart, declaring:
 Charles Dickens' contributions to English literature greatly influenced the rising
 popularity of the novel as a literary form that can be enjoyed by the masses. His
 social and ethical themes also paved the way to shaping the opinions and ideas of
-many of his readers, greatly contributing to raising awareness among people of the
-higher classes regarding the greatly disturbing living conditions of those of the
+many of his readers, largely contributing to raising awareness among people of the
+higher classes regarding the very disturbing living conditions of those of the
 lower class.
 
 # The Victorian Novel and Novelists
@@ -150,7 +150,7 @@ lower class.
 William Makepeace Thackeray (1811 -- 1863) was an English novelist and illustrator
 most appreciated for his satirical works. He was born in Calcutta[^k], in Brittish
 India, and moved to England after his father's death in 1815. His background having
-been born into one of the territories under colonial rule of England has greatly
+been born into one of the territories under colonial rule of England has profoundly
 influenced his work, as can be seen in his novel _Vanity Fair_, a satire novel
 criticizing 19th century British society.
 
@@ -205,9 +205,9 @@ The Brontë Sisters were, as the name implies, a group of sisters from the Bront
 family, all of whom were novelists and poets, and had a deep passion for the arts
 and literature. Their brother, Branwell, was a talented painter. The sisters
 -- Charlotte, Emily, and Anne -- all have written astonishing works, which were
-published their works under male pseudonyms in order to avoid scrutiny from readers
-and/or critics. These pseudonyms were taken from their initials, and were intentionally
-bland: __Currer Bell__, __Ellis Bell__, and __Acton Bell__.
+published under male pseudonyms in order to avoid scrutiny from readers and/or critics.
+These pseudonyms were taken from their initials, and were intentionally chose to
+sound relatively bland: __Currer Bell__, __Ellis Bell__, and __Acton Bell__.
 
 The Brontë sisters were some of the most influential figures in English literature,
 making astonishing contributions to its development and popularisation. Their works
